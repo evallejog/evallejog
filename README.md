@@ -55,7 +55,6 @@
 | **CalculadoraDistribuidos** | Calculadora cliente/servidor mediante sockets | Python · Java |
 | **Análisis de ventas de restaurante** | Análisis de datos con informe ejecutivo | Python · SQLite · Pandas · Jupyter |
 
-> 💡 Cuando tengas los repositorios publicados, convierte cada nombre en enlace: `[Tienda Genérica](https://github.com/TU_USUARIO/NOMBRE-DEL-REPO)`.
 
 ---
 
